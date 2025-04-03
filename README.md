@@ -6,6 +6,17 @@
 
 ---
 
+## 🌟 About Me
+
+- 💻 Passionate about building innovative software solutions
+- 🎨 UI/UX enthusiast, transforming ideas into visually appealing designs
+- 🌱 Constantly exploring new technologies and frameworks
+- 🤝 Open to collaboration and learning opportunities
+- 🎯 Committed to writing clean, efficient, and maintainable code
+- 🚀 Striving to bridge the gap between aesthetics & functionality
+
+---
+
 ## 🚀 Tech Arsenal
 
 ### 💻 Programming & Scripting
@@ -43,17 +54,6 @@ https://github.com/user-attachments/assets/6c5d2e49-c964-4107-91e0-a3f4dedc70be
 
 Stay tuned for more certifications and learning updates! 🚀
 
-
-## 🌟 About Me
-
-- 💻 Passionate about building innovative software solutions
-- 🎨 UI/UX enthusiast, transforming ideas into visually appealing designs
-- 🌱 Constantly exploring new technologies and frameworks
-- 🤝 Open to collaboration and learning opportunities
-- 🎯 Committed to writing clean, efficient, and maintainable code
-- 🚀 Striving to bridge the gap between aesthetics & functionality
-
----
 
 
 ## 🤝 Let's Connect!
