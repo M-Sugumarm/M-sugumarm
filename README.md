@@ -25,6 +25,23 @@
 
 ---
 
+# 📜 Certifications
+
+## 🎓 Google UI/UX: Foundations of User Experience (UX) Design
+- Successfully completed the **Foundations of User Experience (UX) Design** course by Google.
+- Gained insights into UX principles, design processes, and usability testing.
+- Learned how to create wireframes, prototypes, and user-centered designs.
+- Developed a strong understanding of user research, accessibility, and design thinking.
+- Applied concepts to real-world projects, improving skills in Figma and Adobe XD.
+
+### 📹 Certificate Video
+> 🎥 Click [here](#) to watch my certification video showcasing my learning journey.
+
+---
+
+Stay tuned for more certifications and learning updates! 🚀
+
+
 ## 🌟 About Me
 
 - 💻 Passionate about building innovative software solutions
@@ -36,25 +53,6 @@
 
 ---
 
-## 📊 GitHub & LinkedIn Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sugumar33&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sugumar33&theme=radical" alt="GitHub Streak" />
-<br>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sugumar33&theme=radical" alt="GitHub Activity Graph" />
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sugumar33&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Stats" />
-</p>
-
----
 
 ## 🤝 Let's Connect!
 
