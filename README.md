@@ -34,10 +34,12 @@
 - Developed a strong understanding of user research, accessibility, and design thinking.
 - Applied concepts to real-world projects, improving skills in Figma and Adobe XD.
 
-### 📹 Certificate Video
-> 🎥 Click [here](#) to watch my certification video showcasing my learning journey.
 
 ---
+
+https://github.com/user-attachments/assets/6c5d2e49-c964-4107-91e0-a3f4dedc70be
+
+
 
 Stay tuned for more certifications and learning updates! 🚀
 
